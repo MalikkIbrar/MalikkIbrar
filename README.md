@@ -121,25 +121,7 @@ class MalikIbrar:
 </div>
 ```
 
----
-
-## Step 3 — Update Your GitHub Profile Settings
-
-Go to **github.com → Settings → Profile** and fill in:
 ```
-Name:      Malik Ibrar
-Bio:       AI Engineer | Multi-Agent Systems | ex-Game Dev · 50K+ Downloads
-Location:  Islamabad, Pakistan
-Website:   linkedin.com/in/malikibrar
-```
-
----
-
-## Step 4 — Pin Your Best Repos
-
-Right now you only have 2 repos. Do this this week:
-```
-Create these repos (even if empty with just README):
 
 1. multi-agent-orchestrator
    → Your current AI project
