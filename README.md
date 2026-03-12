@@ -5,7 +5,7 @@
 ### 🤖 AI Engineer | Multi-Agent Systems | LLM Integration
 ### 🎮 ex-Game Developer · 50,000+ Downloads Shipped
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/malikibrar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/malik-ibrar-1047b1217)
 [![Profile Views](https://komarev.com/ghpvc/?username=MalikkIbrar&color=1B4FE4&style=for-the-badge)](https://github.com/MalikkIbrar)
 
 </div>
