@@ -122,17 +122,3 @@ class MalikIbrar:
 ```
 
 ```
-
-1. multi-agent-orchestrator
-   → Your current AI project
-   → Most important repo to have
-
-2. ai-projects
-   → Collection of your AI experiments
-
-3. unity-games-portfolio
-   → Show your game dev work
-   → Add screenshots as images in README
-
-Then go to your profile → "Customize your pins"
-→ Pin all 3 of these
