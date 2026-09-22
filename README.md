@@ -107,7 +107,7 @@ class MalikIbrar:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik_Ibrar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/malikibrar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MalikIbrar?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/malikibrar)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:malikibrar11@gmail.com)
 
 </div>
